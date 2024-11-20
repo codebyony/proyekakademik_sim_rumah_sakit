@@ -9,7 +9,7 @@ Laravel, blade, MySQL
 > Login Sesuai Role
 <img src="https://github.com/codebyony/proyekakademik_sim_rumah_sakit/blob/8bd8981432a2ac63987d0d381434f6db94325ec6/public/assets/images/Screenshot/SIMRS1.png">
 
-> <b>ADMIN</b>
+### ADMIN
 > Dashboard Admin
 <img src="https://github.com/codebyony/proyekakademik_sim_rumah_sakit/blob/8bd8981432a2ac63987d0d381434f6db94325ec6/public/assets/images/Screenshot/SIMRS2.png">
 
