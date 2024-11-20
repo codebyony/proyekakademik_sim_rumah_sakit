@@ -16,8 +16,17 @@ Laravel, blade, MySQL
 > Print Laporan dan Statistik
 <img src="https://github.com/codebyony/proyekakademik_sim_rumah_sakit/blob/8bd8981432a2ac63987d0d381434f6db94325ec6/public/assets/images/Screenshot/SIMRS3.png">
 
-> Unduh Laporan dan Statistik
+> Detail Pengguna
 <img src="https://github.com/codebyony/proyekakademik_sim_rumah_sakit/blob/8bd8981432a2ac63987d0d381434f6db94325ec6/public/assets/images/Screenshot/SIMRS4.png">
 
-> Detail Pengguna
+### APOTEKER
+> Daftar Obat, Stok, dan Kegunaan
 <img src="https://github.com/codebyony/proyekakademik_sim_rumah_sakit/blob/8bd8981432a2ac63987d0d381434f6db94325ec6/public/assets/images/Screenshot/SIMRS5.png">
+
+### KARYAWAN
+> Transaksi dan Verifikasi
+<img src="https://github.com/codebyony/proyekakademik_sim_rumah_sakit/blob/8bd8981432a2ac63987d0d381434f6db94325ec6/public/assets/images/Screenshot/SIMRS6.png">
+
+### Dokter
+> Diagnosis Pasien
+<img src="https://github.com/codebyony/proyekakademik_sim_rumah_sakit/blob/8bd8981432a2ac63987d0d381434f6db94325ec6/public/assets/images/Screenshot/SIMRS7.png">
