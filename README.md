@@ -7,4 +7,17 @@ Laravel, blade, MySQL
 
 ## Screenshot
 > Login Sesuai Role
-<img src="">
+<img src="https://github.com/codebyony/proyekakademik_sim_rumah_sakit/blob/8bd8981432a2ac63987d0d381434f6db94325ec6/public/assets/images/Screenshot/SIMRS1.png">
+
+> <b>ADMIN</b>
+> Dashboard Admin
+<img src="https://github.com/codebyony/proyekakademik_sim_rumah_sakit/blob/8bd8981432a2ac63987d0d381434f6db94325ec6/public/assets/images/Screenshot/SIMRS2.png">
+
+> Print Laporan dan Statistik
+<img src="https://github.com/codebyony/proyekakademik_sim_rumah_sakit/blob/8bd8981432a2ac63987d0d381434f6db94325ec6/public/assets/images/Screenshot/SIMRS3.png">
+
+> Unduh Laporan dan Statistik
+<img src="https://github.com/codebyony/proyekakademik_sim_rumah_sakit/blob/8bd8981432a2ac63987d0d381434f6db94325ec6/public/assets/images/Screenshot/SIMRS4.png">
+
+> Detail Pengguna
+<img src="https://github.com/codebyony/proyekakademik_sim_rumah_sakit/blob/8bd8981432a2ac63987d0d381434f6db94325ec6/public/assets/images/Screenshot/SIMRS5.png">
